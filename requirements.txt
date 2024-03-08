@@ -8,7 +8,6 @@ MarkupSafe
 numpy
 scikit-learn
 scipy
-sklearn
 streamlit
 tensorboard
 tensorboard-plugin-wit
