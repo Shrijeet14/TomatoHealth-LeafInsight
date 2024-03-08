@@ -10,7 +10,7 @@ scikit-learn==0.24.1
 scipy==1.6.2
 sklearn==0.0
 streamlit==0.73.1
-tensorboard==2.4.1
+tensorboard==2.5.0
 tensorboard-plugin-wit==1.8.0
 tensorflow==2.5.0
 tensorflow-estimator==2.5.0
